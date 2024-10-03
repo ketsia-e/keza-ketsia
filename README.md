@@ -66,4 +66,4 @@ COMMIT; -- Save the changes
 SELECT UserName FROM Users
 WHERE UserID IN (SELECT UserID FROM UserRoles WHERE RoleID = 1); -- Users with Admin role
 
-# ![Alt text of the image, OPtional](assets/images/1.png)
+# ![Alt text of the image, OPtional](assets/relationships.png)
