@@ -2,7 +2,7 @@
 
 ## CODES
 ```SQL
--- Create Users Table
+ # Create Users Table
 CREATE TABLE Users (
     UserID INT PRIMARY KEY,
     UserName VARCHAR(100),
